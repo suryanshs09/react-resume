@@ -48,8 +48,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-resume-builder.git
-cd react-resume-builder
+git clone https://github.com/suryanshs09/react-resume.git
+cd react-resume
 ````
 
 ### 2. Install dependencies
